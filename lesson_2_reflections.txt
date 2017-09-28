@@ -3,3 +3,9 @@ A: It sets up the .git file and the rest of the structure needed to make it a re
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers? 
 A: It makes a place to prepare to commit, before being totally ready. You can get several files ready to commit and then do them all at once. 
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: By having to describe the change when you commit, you will be limited to one change. 
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+A: When trying out something really different that you don't know if you want to keep, or when collaborating with someone. 
