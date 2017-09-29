@@ -15,3 +15,6 @@ A: They help very much!
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
 A: The diagram shows what is the new master. 
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Saves time, but when a manual intervention is needed, it can be done. 
